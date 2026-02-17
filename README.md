@@ -7,7 +7,7 @@
 Donations are greatly appericiated 
 
 BTC - bc1q63g6adp27m0a5nlfa85aade7ucuklxp2x2l4ep
-SOLANA - HgF9g4j8qtiifhHU65HGzw4Jk4Zu3mBsBcJpvpNaCNvg <span style="color: #FF5733;">** 
+SOLANA - HgF9g4j8qtiifhHU65HGzw4Jk4Zu3mBsBcJpvpNaCNvg <span style="color: #FF5733;">
 ### <span style="color: #2196F3;">👨‍💻<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;Code.+Design.+Build.;Let%E2%80%99s+walk+and+work+together+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </p></span>  
